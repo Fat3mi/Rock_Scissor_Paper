@@ -1,0 +1,7 @@
+C:\Users\omid\source\repos\Rock_Scissor_Paper\RockScissorPaper\RockScissorPaper\bin\Debug\RockScissorPaper.exe.config
+C:\Users\omid\source\repos\Rock_Scissor_Paper\RockScissorPaper\RockScissorPaper\bin\Debug\RockScissorPaper.exe
+C:\Users\omid\source\repos\Rock_Scissor_Paper\RockScissorPaper\RockScissorPaper\bin\Debug\RockScissorPaper.pdb
+C:\Users\omid\source\repos\Rock_Scissor_Paper\RockScissorPaper\RockScissorPaper\obj\Debug\RockScissorPaper.csproj.AssemblyReference.cache
+C:\Users\omid\source\repos\Rock_Scissor_Paper\RockScissorPaper\RockScissorPaper\obj\Debug\RockScissorPaper.csproj.CoreCompileInputs.cache
+C:\Users\omid\source\repos\Rock_Scissor_Paper\RockScissorPaper\RockScissorPaper\obj\Debug\RockScissorPaper.exe
+C:\Users\omid\source\repos\Rock_Scissor_Paper\RockScissorPaper\RockScissorPaper\obj\Debug\RockScissorPaper.pdb
